@@ -1,0 +1,11 @@
+Field,Data,Confidence
+INVOICE NUMBER,INVO-005,67.0
+COMPANY,ABC Company,80.0
+NAME,John Smith,76.0
+NAME,Sam K. Smith,92.0
+ADDRESS,"111 Pine Street, Suite 1815",93.6
+ADDRESS,"San Francisco, CA, 94111",93.25
+PHONE NUMBER,"(123) 123-1232
+Email
+",62.666666666666664
+TOTAL,Total: $425,85.0

@@ -1,0 +1,166 @@
+{
+  "lang":"en",
+  "name":"pipeline",
+  "version":"0.0.0",
+  "spacy_version":">=3.7.5,<3.8.0",
+  "description":"",
+  "author":"",
+  "email":"",
+  "url":"",
+  "license":"",
+  "spacy_git_version":"a6d0fc360",
+  "vectors":{
+    "width":0,
+    "vectors":0,
+    "keys":0,
+    "name":null,
+    "mode":"default"
+  },
+  "labels":{
+    "tok2vec":[
+
+    ],
+    "ner":[
+      "ADDRESS",
+      "BALANCE DUE",
+      "COMPANY",
+      "CUSTOMER ID",
+      "DATE",
+      "DISCOUNT",
+      "DUE DATE",
+      "EMAIL",
+      "INVOICE DATE",
+      "INVOICE NUMBER",
+      "JOB ID",
+      "NAME",
+      "PHONE NUMBER",
+      "PO NUMBER",
+      "SALES TAX",
+      "SHIPPING",
+      "SUBTOTAL",
+      "TOTAL",
+      "TRACKING NUMBER",
+      "WEBSITE"
+    ]
+  },
+  "pipeline":[
+    "tok2vec",
+    "ner"
+  ],
+  "components":[
+    "tok2vec",
+    "ner"
+  ],
+  "disabled":[
+
+  ],
+  "performance":{
+    "ents_f":1.0,
+    "ents_p":1.0,
+    "ents_r":1.0,
+    "ents_per_type":{
+      "NAME":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "ADDRESS":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "EMAIL":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "INVOICE DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "DUE DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "TOTAL":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "COMPANY":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "WEBSITE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "PHONE NUMBER":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "TRACKING NUMBER":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "DISCOUNT":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "BALANCE DUE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "INVOICE NUMBER":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "PO NUMBER":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "CUSTOMER ID":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "DATE":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "SUBTOTAL":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "SALES TAX":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "SHIPPING":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      },
+      "JOB ID":{
+        "p":1.0,
+        "r":1.0,
+        "f":1.0
+      }
+    },
+    "tok2vec_loss":87.7858524162,
+    "ner_loss":21.9789620246
+  }
+}

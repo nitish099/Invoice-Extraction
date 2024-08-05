@@ -1,0 +1,13 @@
+Field,Data,Confidence
+COMPANY,East Repair Inc.,91.33333333333333
+ADDRESS,"1912 Harvest Lane
+New York, NY 12210",89.71428571428571
+NAME,John,87.0
+INVOICE DATE,1102/2019,79.0
+ADDRESS,"2 Court Square 3787 Pineview Drive
+New York, NY 12210",85.1
+P.O.#,2312/2019,89.0
+Due Date,26/02/2019,41.0
+Subtotal,145.00,86.0
+Invoice #,us-001,0.0
+Sales Tax 6.25%,9.06,94.0

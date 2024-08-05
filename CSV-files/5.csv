@@ -1,0 +1,11 @@
+Field,Data,Confidence
+INVOICE NUMBER,1000-15088,96.0
+CLEANING PERIOD,01/05/2023-31/05/2023,92.0
+PHONE NUMBER,(000) 123 456 7890,96.0
+TOTAL,$929.50,96.0
+TAX,$84.50,96.0
+ACCOUNT NUMBER,"0123 0000 1111 2323
+Sort Code 25-88-00",96.0
+Street address,2001 Street Name,96.0
+Email,cleaningservices@email.com,90.0
+Website,cleaningservices123.com,91.0

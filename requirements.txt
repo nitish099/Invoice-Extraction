@@ -1,0 +1,7 @@
+Flask
+pandas
+pdf2image
+pytesseract
+Pillow
+spacy
+tqdm

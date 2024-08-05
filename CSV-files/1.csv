@@ -1,0 +1,13 @@
+Field,Data,Confidence
+INVOICE NUMBER,INV-0012,90.0
+INVOICE DATE,13/7/2020,90.0
+NAME,Richard Glenn,95.5
+ADDRESS,"4275 Crummit Lane, Happy Village",94.2
+ADDRESS,"New York, NY, 281502",87.75
+EMAIL,john@example.com,88.0
+NAME,Richard Glenn,95.5
+ADDRESS,"New York, NY, 281502",87.75
+SUBTOTAL,$84.00,95.0
+SHIPPING,$52.00,89.0
+TAX,$0.00,96.0
+TOTAL,$136.00,96.0

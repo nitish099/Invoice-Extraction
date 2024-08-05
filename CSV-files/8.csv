@@ -1,0 +1,8 @@
+Field,Data,Confidence
+NAME,John Smith,96.0
+ADDRESS,"123 Main Street, Anytown, USA",95.4
+EMAIL,johnsmith@example.com,91.0
+INVOICE DATE,12/10/2023,92.0
+EMAIL,janedoe@example.com,80.0
+DUE DATE,12/11/2023,75.0
+TOTAL,"$3,450",96.0
